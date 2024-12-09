@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: rgb(151, 185, 248);
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+
+
+input{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 600;
+    border-radius: 10px;
+    margin: 3%;
+    border: none;
+    border: solid 2px rgb(91, 91, 255);
+}
+
+button{
+    text-align: center;
+    border: none;
+    border: solid 2px rgb(91, 91, 255);
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-weight: 600;
+    margin: 1%;
+}
